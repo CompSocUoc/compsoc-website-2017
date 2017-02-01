@@ -1,0 +1,752 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-06 04:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:10
+msgid "Event Layout"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:21
+msgid "Event layout"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:29
+msgid "Default"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:30
+msgid "Right Sidebar"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:31
+msgid "Left Sidebar"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:32
+msgid "No Sidebar"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:45
+msgid "Custom sidebar name"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:62
+msgid "Event Information"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:79
+msgid "Start Date"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:100
+msgid "End Date"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:122
+msgid "Formatting Date and Time"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:134
+msgid "F d, Y"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:135
+msgid "d F, Y"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:136
+msgid "m/d/Y"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:137
+msgid "d/m/Y"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:138
+msgid "Y/m/d"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:154
+msgid "Show/Hide Number Of Tickets?"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:166
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:194
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:219
+msgid "show"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:167
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:195
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:220
+msgid "hide"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:182
+msgid "Show/Hide Countdown"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:207
+msgid "Show/Hide Button Join"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:235
+msgid "Event ID"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:256
+msgid "Color"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:271
+msgid "Product"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:274
+msgid "Select a WooCommerce product to sell this event "
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:294
+msgid "Who is speakers?"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:306
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:322
+msgid "Teacher"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:307
+msgid "Out School"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:353
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/templates/event-single.php:158
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/templates/event-single.php:183
+msgid "Speakers"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:375
+msgid "Add Row"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:379
+msgid "Avatar"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:403
+msgid "Name"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:424
+msgid "Role"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:447
+msgid "Subscribe URL"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:450
+msgid "Link to a subscribe form. Only work if no product is set. "
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:468
+msgid "Subscribe Button Text"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:471
+msgid "Text that appears on the subscribe button."
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:489
+msgid "Event location"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:506
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/templates/event-single.php:231
+msgid "Address"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:509
+msgid "Location Address of event "
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:527
+msgid "Phone"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:530
+msgid "Contact Number of event "
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:548
+msgid "Website"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:551
+msgid "Website URL of event"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:569
+msgid "Email"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:572
+msgid "Email Contact of event"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:590
+msgid "Event Titlebar"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:601
+msgid "Show/Hide Title Bar"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:624
+msgid "Show/Hide Date"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:636
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:662
+msgid "Yes"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:637
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:663
+msgid "No"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:650
+msgid "Show/Hide Author"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:676
+msgid "Event titlebar font size"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:701
+msgid "Event title bar color"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:720
+msgid "Padding top"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:724
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:749
+msgid "Unit: px (Ex: 10px)"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:745
+msgid "Padding bottom"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:770
+msgid "Background color"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:789
+msgid "Background image"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:810
+msgid "Background position"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:826
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:897
+msgid "None"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:827
+msgid "Left Top"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:828
+msgid "Left Center"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:829
+msgid "Left Bottom"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:830
+msgid "Right Top"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:831
+msgid "Right Center"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:832
+msgid "Right Bottom"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:833
+msgid "Center top"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:834
+msgid "Center Center"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:835
+msgid "Center Bottom"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:848
+msgid "Background size"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:881
+msgid "Background repeat"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:898
+msgid "No Repeat"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:899
+msgid "Repeat"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:900
+msgid "Repeat X"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:901
+msgid "Repeat Y"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:914
+msgid "Background parallax"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:944
+msgid "Titlebar overlay opacity"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:948
+msgid "Set your overlay opacity in titlebar"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:983
+msgid "Titlebar clipmask opacity"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:987
+msgid "Set your clipmask opacity in titlebar"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/acf-content.php:1022
+msgid "Custom titlebar content"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:14
+msgid "January"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:15
+msgid "February"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:16
+msgid "March"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:17
+msgid "April"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:18
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:31
+msgid "May"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:19
+msgid "June"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:20
+msgid "July"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:21
+msgid "August"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:22
+msgid "September"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:23
+msgid "October"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:24
+msgid "November"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:25
+msgid "December"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:27
+msgid "Jan"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:28
+msgid "Feb"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:29
+msgid "Mar"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:30
+msgid "Apr"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:32
+msgid "Jun"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:33
+msgid "Jul"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:34
+msgid "Aug"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:35
+msgid "Sep"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:36
+msgid "Oct"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:37
+msgid "Nov"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:38
+msgid "Dec"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:40
+msgid "Sun"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:41
+msgid "Mon"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:42
+msgid "Tue"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:43
+msgid "Wed"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:44
+msgid "Thu"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:45
+msgid "Fri"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:46
+msgid "Sat"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:48
+msgid "BUY TICKET "
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:49
+msgid "Start: "
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:50
+msgid "End: "
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:51
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/monthview/events-list.php:46
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/monthview/events-list.php:53
+msgid "Location: "
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:164
+msgid "Join"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:223
+msgid "Sort Event"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:224
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/class.k_event.php:231
+msgid "All"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:9
+msgid "k-event"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:11
+msgid "k-event-category"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:12
+msgid "k-event-tag"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:18
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:19
+msgid "K-Event"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:20
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:21
+msgid "Add New Event"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:22
+msgid "Edit Event"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:23
+msgid "New Event"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:24
+msgid "View Event"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:25
+msgid "All Events"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:26
+msgid "Search Event"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:27
+msgid "No Event found"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:28
+msgid "No Event found in Trash"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:42
+msgctxt "taxonomy general name"
+msgid "Event Categories"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:43
+msgctxt "taxonomy singular name"
+msgid "K-Event Category"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:44
+msgid "Search K-Event Categories"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:45
+msgid "All K-Event Categories"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:46
+msgid "Parent K-Event Category"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:47
+msgid "Parent K-Event Category:"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:48
+msgid "Edit K-Event Category"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:49
+msgid "Update K-Event Category"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:50
+msgid "Add New K-Event Category"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:51
+msgid "New K-Event Category Name"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:52
+msgid "K-Event Categories"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:62
+msgctxt "taxonomy general name"
+msgid "K-Event Tags"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:63
+msgctxt "taxonomy singular name"
+msgid "K-Event Tag"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:64
+msgid "Search K-Event Tags"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:65
+msgid "All K-Event Tags"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:66
+msgid "Parent K-Event Tag"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:67
+msgid "Parent K-Event Tag:"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:68
+msgid "Edit K-Event Tag"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:69
+msgid "Update K-Event Tag"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:70
+msgid "Add New K-Event Tag"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:71
+msgid "New K-Event Tag Name"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/registrations.php:72
+msgid "K-Event Tags"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/templates/event-single.php:101
+msgid "Price"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/templates/event-single.php:113
+msgid "Number of Tickets:"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/templates/event-single.php:125
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/templates/event-single.php:127
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/templates/event-single.php:263
+msgid "Launch Event"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/templates/event-single.php:211
+msgid "Time"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/templates/event-single.php:214
+msgid "Start:"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/templates/event-single.php:220
+msgid "End:"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/templates/event-single.php:242
+msgid "Description"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/templates/event-single.php:255
+msgid "Google Calendar"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/templates/event-single.php:257
+msgid "Ical Export"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/templates/navigation.php:32
+msgid "<i class=\"zmdi zmdi-long-arrow-left\"></i>Previous"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/templates/navigation.php:35
+msgid "Next<i class=\"zmdi zmdi-long-arrow-right\"></i>"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/templates/navigation.php:48
+msgid "<i class=\"zmdi zmdi-long-arrow-left\"></i>"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/templates/navigation.php:49
+msgid "<i class=\"zmdi zmdi-long-arrow-right\"></i>"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/monthview/events-list.php:19
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/monthview/events-list.php:27
+msgid "Course"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/monthview/events-list.php:21
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/monthview/events-list.php:29
+msgid "Event"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/monthview/events-list.php:45
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/monthview/events-list.php:52
+msgid "Time: "
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/monthview/events-list.php:47
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/monthview/events-list.php:54
+msgid "BUY TICKET"
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/shortcodes/recent-event.php:92
+msgid "Start Date: "
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/shortcodes/recent-event.php:96
+msgid "End Date: "
+msgstr ""
+
+#: D:/PROJECT/PHP/sunrisetheme/edu/plugins/k-event/inc/shortcodes/recent-event.php:112
+msgid "Detail"
+msgstr ""
+
+#. Name of the plugin
+msgid "K Events"
+msgstr ""
+
+#. Description of the plugin
+msgid "Event post type with Single, Listing and Shortcodes for Eduction theme"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://lunartheme.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "LunarTheme"
+msgstr ""

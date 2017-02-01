@@ -1,0 +1,6 @@
+.mce-toolbar .mce-i-wp_code{
+	background: url(../images/portfolio_icon.png) center no-repeat;
+}
+.mce-toolbar .mce-i-wp_code::before{
+	content: "";
+}

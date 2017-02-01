@@ -1,0 +1,5 @@
+/* Misc Functions */
+
+function doAjax(){
+	
+}

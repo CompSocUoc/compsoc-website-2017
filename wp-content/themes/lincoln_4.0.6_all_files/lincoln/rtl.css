@@ -1,0 +1,142 @@
+/*
+Theme Name: Lincoln
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+body {
+	/*direction: rtl;*/
+	unicode-bidi: embed;
+	text-align:right;
+}
+.k2t-footer .k2t-wrap .widget_nav_menu ul li a:after {
+    content: '•';
+    margin-left: 10px;
+}
+.k2t-footer .k2t-wrap .widget_nav_menu ul li a:before{
+	content: '' !important;
+	margin-right: 0;
+}
+input[type="text"], .k2t-footer .mc4wp-form input[type=email], #sb_instagram #sbi_load,
+.text-align-left .k2t-gallery-heading .filter-list, .isotope-selector .layer-table,
+table th,table td, .k2t-iconbox.layout-1 .title, input, .woocommerce table.shop_table td, .woocommerce-page table.shop_table td, .woocommerce table.shop_table th,
+textarea, .k2t-header-mid .k2t-menu > li ul li, #commentform > p input,#commentform > p textarea,
+.woocommerce form .form-row label, .woocommerce-page form .form-row label, .k2t-iconbox.layout-1.has-background .iconbox-text .title h3,
+.woocommerce form .form-row, .woocommerce form .lost_password,.k2t-iconbox.layout-1 .iconbox-text .desc{
+	text-align: right !important;
+}
+.widget_sfwd-quiz-widget > ul > li h4 > a, 
+.widget_sfwd-certificates-widget > ul > li h4 > a, 
+.widget_sfwd-lessons-widget > ul > li h4 > a, 
+.learndash-archive .k2t-blog .quiz_list > li h4 > a, 
+.widget_sfwd-courses-widget > ul > li > h4 > a{
+	text-align: right;
+	width: 100%;
+}
+.k2t-header .k2t-row > [class*="col-"]:last-child,
+.pricing-column .description ul li{
+	text-align: left !important;
+}
+.k2t-iconbox.layout-1 .iconbox-icon, .k2t-iconbox.layout-1 .iconbox-image{
+	left: 30px;
+}
+.widget_product_categories > ul > .cat-item > a{
+	text-align: right;
+	width: 85%;
+}
+.widget_categories > ul > .cat-item .children li .count, .k2t-blog .post-item .entry-comment,
+.woocommerce ul.products li.product .star-rating, .widget_product_categories > ul > .cat-item > .count,
+.widget_product_categories > ul > .cat-item .children li .count, .woocommerce .widget_price_filter .price_slider_wrapper .price_slider_amount .button,
+.woocommerce .woocommerce-error .button, .woocommerce .woocommerce-info .button, .woocommerce .woocommerce-message .button{
+	float: left !important;
+}
+.widget_categories > ul > .cat-item .children li a, .k2t-blog .post-item .more-link,
+.widget_categories > ul > .cat-item > a, .k2t-row [class*="col-"], .event-classic-item .more-link,
+.k2t-iconbox.layout-4 .iconbox-icon, .k2t-iconbox.layout-3 .iconbox-image, .pricing-column .description ul li > *,
+.woocommerce ul.products li.product .price, .widget_product_categories > ul > .cat-item .children li a,
+.widget_product_categories > ul > .cat-item > a, .woocommerce .widget_price_filter .price_slider_wrapper .price_label{
+	float: right !important;
+}
+.learndash_nevigation_lesson_topics_list > div > div.list_arrow{
+	left: 11px;
+}
+.woocommerce .woocommerce-message:before{
+	right: 0;
+}
+.widget_categories > ul > .cat-item > a:before,
+.widget_product_categories > ul > .cat-item > a:before{
+	background: none !important;
+}
+.widget_categories > ul > .cat-item > .count,
+.widget_product_categories > ul > .cat-item > .count{
+	position: relative;
+}
+.widget_categories > ul > .cat-item > .count:before,
+.widget_product_categories > ul > .cat-item > .count:before{
+	background: #3f51b5;
+	content: '';
+    position: absolute;
+    width: 3px;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+.widget .searchform input[type="text"]{
+	padding-right: 30px !important;
+}
+.ld-course-info-my-courses img{
+	position: relative !important;
+	float: left;
+}
+.ld-course-info-my-courses .date{
+	margin-left: 0 !important;
+}
+.offcanvas-sidebar .k2t-sidebar > * ul > li.children:after{
+	left:40px;
+	right: 100% !important;
+}
+.k2t-blog .cat-icon, .event-listing-masonry .masonry-item .read-more{
+	left: 30px;
+}
+.k2t-button.button-default.align-left{
+	margin-right: 30px;
+}
+.k2t-iconbox.layout-4 .iconbox-text {
+    margin-right: 70px;
+    text-align: right;
+}
+#commentform > p label,
+.woocommerce ul.products li.product:hover .b-action{
+	right: 0;
+}
+.event-ticket .ticket-input{
+	width: 100%;
+}
+.k2t-related-course .related-thumb a i{
+	left: 20px;
+}
+.custom_search .widget .searchform input[type="text"]{
+	padding-right: 60px !important;
+}
+.vc_toggle.vc_toggle_default .vc_toggle_title h4{
+	padding: 0.8em 2.2em 0.8em 1em;
+}
+li.bbp-forum-info, li.bbp-topic-title{
+	float: right !important;
+	text-align: right !important;
+}
+.single-post-k-course .k2t-title-bar.right-sidebar .k2t-wrap > *,
+.single-post-k-event .k2t-title-bar.right-sidebar .k2t-wrap > *,
+.single-post-k-teacher .k2t-title-bar .k2t-wrap > *{
+	padding-left: 0;
+    padding-right: 26%;
+    text-align: right;
+}
+.k2t-blog .post-item.sticky .entry-content:before, .k2t-blog .post-item.quote-post.sticky .post-inner:before{
+	right: 30px;
+}

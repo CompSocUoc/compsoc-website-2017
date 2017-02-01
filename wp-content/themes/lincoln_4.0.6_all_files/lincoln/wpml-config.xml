@@ -1,0 +1,121 @@
+<wpml-config>
+    <admin-texts>
+        <key name="ruby_options">
+            <key name="text-logo" />
+            <key name="footer-copyright-text" />
+            <key name="offcanvas-sidebar-custom-css" />
+            <key name="pading-top" />
+            <key name="pading-bottom" />
+            <key name="titlebar-custom-content" />
+            <key name="single-custom-sidebar" />
+            <key name="single-related-post-title" />
+            <key name="single-pading-top" />
+            <key name="single-pading-bottom" />
+            <key name="single-titlebar-custom-content" />
+            <key name="portfolio-category-slug" />
+            <key name="portfolio-custom-sidebar" />
+            <key name="portfolio-category-number" />
+            <key name="portfolio-slug" />
+            <key name="portfolio-related-post-title" />
+            <key name="single-related-post-sub-title" />
+            <key name="shop-cart-menu-empty-link" />
+            <key name="shop-products-per-page" />
+            <key name="404-title" />
+            <key name="404-text" />
+            <key name="twitter-username" />
+        </key>
+    </admin-texts>   
+    <custom-types>
+        <custom-type translate="1">post-portfolio</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">portfolio-category</taxonomy>
+    </taxonomies>
+    <custom-fields>
+        <custom-field action="copy">page_layout</custom-field>
+        <custom-field action="translate">single_custom_sidebar</custom-field>
+        <custom-field action="copy">page_sidebar_width</custom-field>
+        <custom-field action="copy">page_background_color</custom-field>
+        <custom-field action="copy">page_content_padding_top</custom-field>
+        <custom-field action="copy">page_content_padding_bottom</custom-field>
+        <custom-field action="copy">display_titlebar</custom-field>
+        <custom-field action="copy">titlebar_layout</custom-field>
+        <custom-field action="copy">page_titlebar_font_size</custom-field>
+        <custom-field action="copy">page_titlebar_color</custom-field>
+        <custom-field action="copy">pading_top</custom-field>
+        <custom-field action="copy">padding_bottom</custom-field>
+        <custom-field action="copy">background_image</custom-field>
+        <custom-field action="copy">background_position</custom-field>
+        <custom-field action="copy">background_size</custom-field>
+        <custom-field action="copy">background_repeat</custom-field>
+        <custom-field action="copy">background_color</custom-field>
+        <custom-field action="copy">background_zoom</custom-field>
+        <custom-field action="copy">background_zoom_height</custom-field>
+        <custom-field action="copy">background_parallax</custom-field>
+        <custom-field action="copy">titlebar_shadow_opacity</custom-field>
+        <custom-field action="copy">titlebar_overlay_opacity</custom-field>
+        <custom-field action="copy">titlebar_clipmask_opacity</custom-field>
+        <custom-field action="copy">post_layout</custom-field>
+        <custom-field action="copy">post_large</custom-field>
+        <custom-field action="translate">single_custom_sidebar</custom-field>
+        <custom-field action="copy">display_categories</custom-field>
+        <custom-field action="copy">display_post_date</custom-field>
+        <custom-field action="copy">display_tags</custom-field>
+        <custom-field action="copy">display_authorbox</custom-field>
+        <custom-field action="copy">display_related_post</custom-field>
+        <custom-field action="copy">video_format_source</custom-field>
+        <custom-field action="copy">video_url</custom-field>
+        <custom-field action="copy">video_code</custom-field>
+        <custom-field action="copy">video_local</custom-field>
+        <custom-field action="copy">audio_format_source</custom-field>
+        <custom-field action="copy">audio_url</custom-field>
+        <custom-field action="copy">audio_local</custom-field>
+        <custom-field action="copy">quote_author</custom-field>
+        <custom-field action="copy">author_quote_url</custom-field>
+        <custom-field action="translate">quote_content</custom-field>
+        <custom-field action="copy">post_gallery</custom-field>
+        <custom-field action="copy">gallery_auto</custom-field>
+        <custom-field action="copy">gallery_auto_time_wait</custom-field>
+        <custom-field action="copy">gallery_speed</custom-field>
+        <custom-field action="copy">gallery_pagination</custom-field>
+        <custom-field action="copy">gallery_navigation</custom-field>
+        <custom-field action="copy">gallery_mousewheel</custom-field>
+        <custom-field action="copy">product_hover_effect</custom-field>
+        <custom-field action="copy">product_cat_layout</custom-field>
+        <custom-field action="translate">product_cat_custom_sidebar</custom-field>
+        <custom-field action="copy">product_cat_display_titlebar</custom-field>
+        <custom-field action="copy">product_cat_titlebar_layout</custom-field>
+        <custom-field action="copy">product_cat_padding_top</custom-field>
+        <custom-field action="copy">product_cat_padding_bottom</custom-field>
+        <custom-field action="copy">product_cat_background_image</custom-field>
+        <custom-field action="copy">product_cat_background_color</custom-field>
+        <custom-field action="copy">product_cat_background_position</custom-field>
+        <custom-field action="copy">product_cat_background_parallax</custom-field>
+        <custom-field action="copy">product_cat_background_parallax_style</custom-field>
+        <custom-field action="copy">product_cat_titlebar_shadow_opacity</custom-field>
+        <custom-field action="copy">product_cat_titlebar_overlay_opacity</custom-field>
+        <custom-field action="copy">product_cat_titlebar_clipmask_opacity</custom-field>
+        <custom-field action="translate">product_cat_titlebar_custom_content</custom-field>
+        <custom-field action="copy">portfolio_style</custom-field>
+        <custom-field action="copy">portfolio_sidebar_content</custom-field>
+        <custom-field action="copy">display_sticky_sidebar</custom-field>
+        <custom-field action="copy">portfolio_display_related_post</custom-field>
+        <custom-field action="copy">portfolio_size</custom-field>
+        <custom-field action="copy">single_display_meta</custom-field>
+        <custom-field action="translate">portfolio_client</custom-field>
+        <custom-field action="translate">portfolio_location</custom-field>
+        <custom-field action="copy">portfolio_period</custom-field>
+        <custom-field action="translate">portfolio_custom_name</custom-field>
+        <custom-field action="translate">portfolio_custom_value</custom-field>
+        <custom-field action="translate">portfolio_text_link</custom-field>
+        <custom-field action="copy">portfolio_link</custom-field>
+        <custom-field action="copy">hover_link</custom-field>
+        <custom-field action="copy">portfolio_display_info</custom-field>
+        <custom-field action="translate">portfolio_sidebar_text</custom-field>
+        <custom-field action="copy">portfolio_video_format_url</custom-field>
+        <custom-field action="copy">portfolio_video_code</custom-field>
+        <custom-field action="copy">portfolio_audio_format_url</custom-field>
+        <custom-field action="copy">portfolio_media_file</custom-field>
+        <custom-field action="copy">portfolio_gallery</custom-field>
+    </custom-fields>
+</wpml-config>

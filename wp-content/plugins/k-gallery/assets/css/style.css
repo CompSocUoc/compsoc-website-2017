@@ -1,0 +1,517 @@
+/* ISOTOPE LAYOUT
+---------------------------------------------------------------------------------------- */
+.fullwidth .k2t-isotope-wrapper .k2t-content {
+	padding:0;
+	padding-top:3.5%;
+	}
+.has-sidebar .k2t-isotope-wrapper .k2t-content {
+	}
+.isotope-free .k2t-isotope-wrapper .k2t-content,
+.k2t-isotope-wrapper.isotope-no-padding .k2t-content  {
+	padding-top:0;
+	}
+.k2t-portfolio-shortcode .k2t-isotope-wrapper.isotope-no-padding .k2t-page-topnav {
+	margin-bottom:0;
+	}	
+.isotope-free .k2t-pagination {
+	margin-top:0;
+	border:none;
+	background:#ddd;
+	text-align:center;
+	}
+.isotope-free .k2t-pagination .page-numbers {
+	display:inline-block;
+	}	
+	
+	/* layout */
+.k2t-isotope-container {
+	position:relative;
+	overflow:hidden;
+	}
+.k2t-isotope-container .bubblingG {
+	position:absolute;
+	top:60px;
+	left:50%;
+	margin-left:-32px;
+	transition:all .1s ease-out;
+	-webkit-transition:all .1s ease-out;
+	-moz-transition:all .1s ease-out;
+	}
+.k2t-isotope-container .isotope-selector .article-inner {
+	-webkit-animation-fill-mode: both;
+	-moz-animation-fill-mode: both;
+	-ms-animation-fill-mode: both;
+	-o-animation-fill-mode: both;
+	animation-fill-mode: both;
+	-webkit-animation-duration: .55s;
+	-moz-animation-duration: .55s;
+	-ms-animation-duration: .55s;
+	-o-animation-duration:.55s;
+	animation-duration: .55s;
+	opacity: 0;
+	}
+		
+		/* loaded */
+.k2t-isotope-container.loaded {
+	}	
+.k2t-isotope-container.loaded .bubblingG {
+	visibility:hidden;
+	opacity:0;
+	}	
+.k2t-isotope-container.loaded .isotope-selector .article-inner.run_animation {
+	opacity: 1;
+	-webkit-animation-name: k2t_popup;
+	-moz-animation-name: k2t_popup;
+	-o-animation-name: k2t_popup;
+	animation-name: k2t_popup;
+	}	
+@-webkit-keyframes k2t_popup {
+	0%{opacity:0;transform:scale(0.8); -moz-transform:scale(0.8); -webkit-transform:scale(0.8);}
+	50%{opacity:0.5;transform:scale(1.05); -moz-transform:scale(1.05); -webkit-transform:scale(1.05);}
+	100%{opacity:1;transform:scale(1); -moz-transform:scale(1); -webkit-transform:scale(1);}
+}
+@keyframes k2t_popup{
+	0%{opacity:0;transform:scale(0.8); -moz-transform:scale(0.8); -webkit-transform:scale(0.8);}
+	50%{opacity:0.5;transform:scale(1.05); -moz-transform:scale(1.05); -webkit-transform:scale(1.05);}
+	100%{opacity:1;transform:scale(1); -moz-transform:scale(1); -webkit-transform:scale(1);}
+}
+	
+.k2t-isotope-container .isotope-selector {
+	width:31%;
+	margin:0 0 3.5% 0;
+	}
+.k2t-isotope-container .gutter-sizer {
+	width:3.5%;
+	}
+	
+	/* elements */
+.k2t-isotope-container .isotope-selector .article-inner {
+	box-shadow:1px 1px 4px rgba(0,0,0,.04);
+	-webkit-box-shadow:1px 1px 4px rgba(0,0,0,.04);
+	-moz-box-shadow:1px 1px 4px rgba(0,0,0,.04);
+	transition:all .3s cubic-bezier(.1,.97,.12,.96);
+	-webkit-transition:all .3s cubic-bezier(.1,.97,.12,.96);
+	-moz-transition:all .3s cubic-bezier(.1,.97,.12,.96);
+	}
+.k2t-isotope-container .isotope-selector .article-inner:hover {
+	box-shadow:0px 2px 8px rgba(0,0,0,.14);
+	-webkit-box-shadow:0px 2px 8px rgba(0,0,0,.14);
+	-moz-box-shadow:0px 2px 8px rgba(0,0,0,.14);
+	}		
+.k2t-isotope-container .isotope-selector .post-thumbnail {
+	margin-bottom:0;
+	overflow:hidden;
+	}
+.k2t-isotope-container .isotope-selector .post-thumbnail img {
+	width:100%;
+	display:block;
+	transition:all 1s cubic-bezier(.1,.97,.12,.96);
+	-webkit-transition:all 1s cubic-bezier(.1,.97,.12,.96);
+	-moz-transition:all 1s cubic-bezier(.1,.97,.12,.96);
+	}
+.k2t-isotope-container .isotope-selector .post-thumbnail:hover img {
+	transform:scale(1.1);
+	-moz-transform:scale(1.1);
+	-webkit-transform:scale(1.1);
+	}
+.k2t-isotope-container .isotope-selector .thumbnail-gallery:hover img {
+	transform:none;
+	-moz-transform:none;
+	-webkit-transform:none;
+	}
+.article.isotope-selector .post-text {
+	border:1px solid #e5e5e5;
+	border-radius:0 0 2px 2px;
+	-webkit-border-radius:0 0 2px 2px;
+	-moz-border-radius:0 0 2px 2px;
+	border-top:none;
+	background:#fff;
+	}
+.article.isotope-selector.no-post-thumbnail .post-text {
+	border-top:1px solid #e5e5e5;
+	}
+.article.isotope-selector .post-text .title-meta {
+	padding:18px;
+	border-bottom:1px solid #e5e5e5;
+	margin:0;
+	}
+.article.isotope-selector .post-meta {
+	border:none;
+	padding:0;
+	}	
+.isotope-selector .post-meta .ele {
+	letter-spacing:0;
+	font-size:10px;
+	}
+.article.isotope-selector .title {
+	font-size:22px;
+	}
+.article.isotope-selector .excerpt {
+	padding:18px 18px 0;
+	}	
+.article.isotope-selector .readmore {
+	padding:0 18px;
+	}
+.article.isotope-selector .tags-share {
+	border-top:1px solid #e5e5e5;
+	padding:18px;
+	transition:all .3s ease-out;
+	-webkit-transition:all .3s ease-out;
+	-moz-transition:all .3s ease-out;
+	}
+.article.isotope-selector .tags-share:hover {
+	background:#fafafa;
+	}
+.article.isotope-selector .tags-share .tags {
+	float:none;
+	}	
+.article.isotope-selector .tags-share .k2t-social-share {
+	float:none;
+	display:block;
+	clear:both;
+	}
+	/* project meta */
+.project-meta ul {
+	list-style:none;
+	margin:0;
+	padding:0;
+	margin-bottom:15px;
+	}		
+.project-meta ul li {
+	}
+	
+	
+	/* 4 COLUMNS 
+	--------------------------------------------------- */
+.isotope-4-columns .k2t-isotope-container .isotope-selector {
+	width:22.75%;
+	margin:0 0 3% 0;
+	}
+.isotope-4-columns .k2t-isotope-container .gutter-sizer {
+	width:3%;
+	}
+.isotope-4-columns .article.isotope-selector .post-text .title-meta {
+	padding:14px;
+	}
+.isotope-4-columns .isotope-selector .post-meta .ele:after {
+	margin-left:2px;
+	margin-right:2px;
+	opacity:0.3;
+	}
+.isotope-4-columns .article.isotope-selector .title {
+	font-size:20px;
+	}
+.isotope-4-columns .article.isotope-selector .excerpt {
+	padding:14px 14px 0;
+	}	
+.isotope-4-columns .article.isotope-selector .readmore {
+	padding:0 14px;
+	}
+.isotope-4-columns .article.isotope-selector .tags-share {
+	padding:14px;
+	margin-top:16px;
+	}
+.isotope-4-columns .isotope-selector.has-hover .thumbnail-image .hover-element {
+	height:28px;
+	line-height:28px;
+	}	
+.isotope-4-columns .isotope-selector.has-hover .thumbnail-image .hover-element a {
+	padding-left:12px;
+	padding-right:12px;
+	height:28px;
+	line-height:28px;
+	}	
+		
+		/* 4 columns in a container */
+		.isotope-4-columns .container .isotope-selector {
+			width:23.5%;
+			margin:0 0 2% 0;
+			}
+		.isotope-4-columns .container .gutter-sizer {
+			width:2%;
+			}
+		.isotope-4-columns .container .article.isotope-selector .title {
+			font-size:18px;
+			}
+		
+	
+	/* 5 COLUMNS 
+	--------------------------------------------------- */	
+.isotope-5-columns .k2t-isotope-container .isotope-selector {
+	width:18.4%;
+	margin:0 0 2% 0;
+	}
+.isotope-5-columns .k2t-isotope-container .gutter-sizer {
+	width:2%;
+	}
+.isotope-5-columns .article.isotope-selector .post-text .title-meta {
+	padding:14px;
+	}
+.isotope-5-columns .isotope-selector .post-meta .ele:after {
+	margin-left:2px;
+	margin-right:2px;
+	opacity:0.3;
+	}
+.isotope-5-columns .article.isotope-selector .title {
+	font-size:16px;
+	}
+.isotope-5-columns .article.isotope-selector .excerpt {
+	padding:12px 12px 0;
+	}	
+.isotope-5-columns .article.isotope-selector .readmore {
+	padding:0 12px;
+	}
+.isotope-5-columns .article.isotope-selector .tags-share {
+	padding:12px;
+	margin-top:14px;
+	}
+.isotope-5-columns .isotope-selector.has-hover .thumbnail-image .hover-element {
+	height:28px;
+	line-height:28px;
+	}	
+.isotope-5-columns .isotope-selector.has-hover .thumbnail-image .hover-element a {
+	padding-left:10px;
+	padding-right:10px;
+	height:28px;
+	line-height:28px;
+	}		
+			
+	/* 2 COLUMNS 
+	--------------------------------------------------- */
+.isotope-2-columns .k2t-isotope-container .isotope-selector {
+	width:47%;
+	margin:0 0 6% 0;
+	}
+.isotope-2-columns .k2t-isotope-container .gutter-sizer {
+	width:6%;
+	}
+	
+	/* FORMAT QUOTE
+	--------------------------------------------------- */
+.article.isotope-selector.format-quote .excerpt {
+	padding:0;
+	}
+.article.isotope-selector.format-quote blockquote {
+	margin-bottom:0;
+	}
+.article.isotope-selector.format-quote blockquote p {
+	font-size:21px;
+	}	
+.article.isotope-selector.format-quote blockquote:before {
+	display:none;
+	}
+.article.isotope-selector.format-quote .post-text {
+	border:none;
+	}	
+.article.isotope-selector.format-quote .tags-share {
+	border:1px solid #e5e5e5;
+	border-top:none;
+	margin:0;
+	}
+	
+	
+	/* ISOTOPE GRID
+	--------------------------------------------------- */
+.isotope-grid .isotope-selector {
+	width:33.33%;
+	padding:0 1.75%;
+	}	
+.isotope-4-columns.isotope-grid .isotope-selector {
+	width:25%;
+	padding:0 1%;
+	margin-bottom:2%;
+	}
+.isotope-5-columns.isotope-grid .isotope-selector {
+	width:20%;
+	padding:0 1%;
+	margin-bottom:2%;
+	}
+.isotope-2-columns.isotope-grid .isotope-selector {
+	width:50%;
+	padding:0 3%;
+	}
+	
+		
+		/* Lincoln 4 columns in a container */
+		.isotope-4-columns.isotope-grid .container .isotope-selector {
+			width:25%;
+			margin:0 0 2% 0;
+			}
+	
+	/* HOVER
+	--------------------------------------------------- */
+.isotope-selector.has-hover .post-thumbnail {
+	position:relative;
+	background:#4D98AD;
+	}	
+.isotope-selector.has-hover .thumbnail-image img {
+	transition:all 1s cubic-bezier(.1,.97,.12,.96);
+	-webkit-transition:all 1s cubic-bezier(.1,.97,.12,.96);
+	-moz-transition:all 1s cubic-bezier(.1,.97,.12,.96);
+	position:relative;
+	z-index:10;
+	}
+.isotope-selector.has-hover .thumbnail-image:hover img {
+	opacity:0.1;
+	}
+.isotope-selector.has-hover .thumbnail-image .hover-element {
+	position:absolute;
+	z-index:15;
+	top:50%;
+	left:0;
+	width:100%;
+	height:34px;
+	line-height:34px;
+	margin-top:-17px;
+	display:none;
+	z-index:30;
+	text-align:center;
+	}
+.isotope-selector.has-hover .thumbnail-image:hover .hover-element {
+	display:block;
+	}
+.isotope-selector.has-hover .thumbnail-image .hover-element a {
+	display:inline-block;
+	margin:5px;
+	height:100%;
+	background:#fff;
+	color:#333;
+	border-radius:2px;
+	-webkit-border-radius:2px;
+	-moz-border-radius:2px;
+	padding:0 20px;
+	font-family:"PT Sans",sans-serif;
+	font-size:15px;
+	text-decoration:none;
+	}
+	
+	
+	/* GALLERY LAYOUT
+	--------------------------------------------------- */
+.isotope-gallery .gutter-sizer,
+.isotope-2-columns.isotope-gallery .gutter-sizer,
+.isotope-3-columns.isotope-gallery .gutter-sizer,
+.isotope-4-columns.isotope-gallery .gutter-sizer,
+.isotope-4-columns.isotope-gallery .container .gutter-sizer,
+.isotope-5-columns.isotope-gallery .gutter-sizer {
+	width:0; /* no gutter to ease layout */
+	}
+.isotope-gallery .isotope-selector {
+	width:33.33%;
+	padding:0.5%;
+	margin:0;
+	}
+
+.isotope-4-columns.isotope-gallery .isotope-selector,
+.isotope-4-columns.isotope-gallery .container .isotope-selector {
+	width:25%;
+	padding:0.47%;
+	margin:0;
+	}	
+.isotope-5-columns.isotope-gallery .isotope-selector {
+	width:20%;
+	padding:0.4%;
+	margin:0
+	}
+.isotope-2-columns.isotope-gallery .isotope-selector {
+	width:50%;
+	padding:0.75%;
+	margin:0
+	}
+
+.isotope-gallery.isotope-no-padding	.isotope-selector {
+	padding:0;
+	}
+	
+	/* GALLERY STYLE
+	--------------------------------------------------- */	
+.isotope-selector .infobox {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	vertical-align:middle;
+	z-index:20;
+	display:none;
+	}
+.isotope-selector .post-thumbnail:hover .infobox {
+	display:block;
+	}
+.isotope-selector .infobox .layer-table {
+	display:table;
+	width:100%;
+	height:100%;
+	vertical-align:middle;
+	}	
+.isotope-selector .infobox .layer-cell {
+	display:table-cell;
+	vertical-align:middle;
+	}	
+.isotope-selector .infobox,
+.isotope-selector .infobox .title {
+	color:#fff;
+	}	
+.isotope-selector .infobox .desc p {
+	margin-bottom:0;
+	}
+	
+	/* FREE STYLE
+	--------------------------------------------------- */
+.isotope-selector.width-2 {
+	width:66.66%;
+	}	
+.isotope-4-columns.isotope-gallery .isotope-selector.width-2,
+.isotope-4-columns.isotope-gallery .container .isotope-selector.width-2 {
+	width:50%;
+	}
+
+	
+/* ISOTOPE
+---------------------------------------------------------------------------------------- */
+.k2t-isotope-container {
+	width:100%;
+	}
+/**** Isotope Filtering ****/		
+.isotope-item {
+  z-index: 2;
+	}		
+.isotope-hidden.isotope-item {
+  pointer-events: none;
+  z-index: 1;
+	}		
+	/* isotope setup */
+.isotope,
+.isotope .isotope-item {
+  /* change duration value to whatever you like */
+  -webkit-transition-duration: 0.8s;
+	 -moz-transition-duration: 0.8s;
+	  -ms-transition-duration: 0.8s;
+	   -o-transition-duration: 0.8s;
+		  transition-duration: 0.8s;
+	}		
+.isotope {
+  -webkit-transition-property: height, width;
+	 -moz-transition-property: height, width;
+	  -ms-transition-property: height, width;
+	   -o-transition-property: height, width;
+		  transition-property: height, width;
+	}		
+.isotope .isotope-item {
+  -webkit-transition-property: -webkit-transform, opacity;
+	 -moz-transition-property:    -moz-transform, opacity;
+	  -ms-transition-property:     -ms-transform, opacity;
+	   -o-transition-property:      -o-transform, opacity;
+		  transition-property:         transform, opacity;
+	}		
+/**** disabling Isotope CSS3 transitions ****/		
+.isotope.no-transition,
+.isotope.no-transition .isotope-item,
+.isotope .isotope-item.no-transition {
+  -webkit-transition-duration: 0s;
+	 -moz-transition-duration: 0s;
+	  -ms-transition-duration: 0s;
+	   -o-transition-duration: 0s;
+		  transition-duration: 0s;
+	}
+

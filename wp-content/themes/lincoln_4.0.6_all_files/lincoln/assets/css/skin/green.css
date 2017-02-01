@@ -1,0 +1,184 @@
+a:hover, 
+a:focus,
+.k2t-header-mid .k2t-menu > li.current-menu-item > a, 
+.k2t-header-mid .k2t-menu > li.current-menu-parent > a, 
+.k2t-header-mid .k2t-menu > li.current-menu-ancestor > a,
+.k2t-heading.has-border.two_dots .h:before, .k2t-heading.has-border.two_dots .h:after,
+.k2t-iconbox.layout-1:hover .iconbox-icon,
+.k2t-btt,
+.widget-title:after,
+.k2t-info .widget_nav_menu ul li a:hover,
+.k2t-footer .k2t-wrap .k2t-row > div a:hover,
+.k2t-gallery-heading .filter-list li.active, .k2t-gallery-heading .filter-list li:hover,
+.k2t-iconbox.layout-4 .iconbox-icon i,
+.event-isotope-filter li.active,
+.widget_categories > ul > .cat-item .children li a:hover,
+.contact-info a:hover,
+.vc_toggle.vc_toggle_default .vc_toggle_title h4:hover,
+.k2t-project-heading h2:before,
+.k2t-project-heading h2:after,
+.k2t-page-topnav ul.menu > li.active > a,
+.k2t-gallery-heading .gallery-title:after,
+.widget ul li.current-cat a,
+.entry-box .entry-comment a:hover,
+.k2t-header-mid .search-box:hover,
+.entry-box .post-entry a,
+.course-isotope-filter li.active{
+	color: #4CAF50;
+}
+
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover ,
+.h-element .shop-cart .cart-control span,
+#close-canvas,
+.k2t-header-top,
+.tp-caption.primarybutton a,
+.tp-caption.primarybutton a:hover,
+.k2t-btt:hover,
+article[class*="course-"] .more-link,
+article[class*="course-"] .more-link:hover,
+.event-listing-masonry .masonry-item .read-more,
+.k2t-blog .post-item .more-link,
+.k2t-blog .post-item .more-link:hover,
+.owl-controls .owl-dots > div.active,
+.mc4wp-form input[type=submit],
+.mc4wp-form input[type=submit]:hover,
+.k2t-footer .widget.social-widget ul li a:hover,
+.owl-controls .owl-nav > div > i:hover,
+.k2t-member .team-socials-link li:hover,
+.k2t-gallery-heading .filter-list li:after,
+.wpcf7 #commentform input[type="submit"],
+.event-classic-item .more-link,
+.event-classic-item .more-link:hover,
+.k2t-pagination-lite,
+.k2t-pagination-lite a:hover,
+.k2t_widget_recent_event .join-event,
+.k2t_widget_recent_event .join-event:hover,
+.event-isotope-filter li:after,
+.single-post-k-event .event-link,
+.single-post-k-event .event-link:hover,
+.widget_categories > ul > .cat-item > a:before,
+.vc_tta.vc_tta-style-outline.vc_tta-tabs .vc_tta-tabs-list .vc_tta-tab.vc_active a,
+.error404, .error404 .k2t-body,
+.k2t-page-topnav ul.menu > li > a:before,
+.project-fields .project-link,
+.project-fields .project-link:hover,
+.teacher-listing article .social a:hover,
+.teacher-connect table th,
+.widget #wp-calendar caption,
+.widget #wp-calendar td#today,
+.k2t-blog .cat-icon,
+.k2t-navigation ul li span.current,
+.widget .tagcloud a:hover,
+.about-author,
+.form-submit #submit,
+.form-submit #submit:hover,
+.k2t-button a,
+.single-post-k-course .course-link,
+.single-post-k-course .course-link:hover,
+.k2t-searchbox .mark,
+body.search .k2t-main .searchform .form-group button,
+.loader-inner,
+.course-isotope-filter li:after,
+.cd-dropdown > span,
+.cd-dropdown ul li span {
+	background-color: #4CAF50;
+}
+
+
+.k2t-header-mid .k2t-menu > li.current-menu-item > a, 
+.k2t-header-mid .k2t-menu > li.current-menu-parent > a, 
+.k2t-header-mid .k2t-menu > li.current-menu-ancestor > a,
+.tp-caption.primarybutton a,
+.tp-caption.primarybutton a:hover,
+.k2t-footer .widget.social-widget ul li a:hover,
+.owl-controls .owl-nav > div > i:hover,
+#commentform > p.focus input[type="text"],
+#commentform > p.focus input[type="email"],
+#commentform > p.focus textarea,
+.widget .tagcloud a:hover,
+.loader{
+	border-color: #4CAF50;
+}
+
+
+/*Woo*/
+.woocommerce.woocommerce-page table.wishlist_table .add_to_cart_button,
+.woocommerce.woocommerce-page table.wishlist_table .add_to_cart_button:hover,
+.woocommerce-page .woocommerce input.button, 
+.woocommerce-page.woocommerce-checkout #payment #place_order,
+.woocommerce-page .woocommerce input.button:hover, 
+.woocommerce-page.woocommerce-checkout #payment #place_order:hover,
+.woocommerce-page .woocommerce input.button,
+.woocommerce.woocommerce-page #respond input#submit, .woocommerce a.button, 
+.woocommerce.woocommerce-page button.button, 
+.woocommerce.woocommerce-page input.button, 
+.woocommerce.woocommerce-page #payment #place_order, 
+.h-element .shop-cart .shop-item .buttons .button,
+.h-element .shop-cart .shop-item .buttons .button:hover,
+.woocommerce.woocommerce-page div.product .single_add_to_cart_button,
+.woocommerce.woocommerce-page .single-product-image-wrap #nav li.active,
+.woocommerce.woocommerce-page ul.products li.product .onsale, 
+.woocommerce.woocommerce-page ul.products li.product .onsale, 
+.single-product.woocommerce.woocommerce-page span.onsale,
+.woocommerce.woocommerce-page div.product .single_add_to_cart_button:hover, 
+.woocommerce.woocommerce-page div.product .single_add_to_cart_button:focus {
+	background: #4CAF50;
+}
+
+
+
+.woocommerce .woocommerce-pagination ul.page-numbers li .page-numbers.current,
+.widget_product_categories > ul > .cat-item > a:before,
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-state-default,
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-slider-range,
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button {
+	background: #4CAF50!important;
+}
+
+.k2t-gallery-shortcode .view .mask {
+	background: rgba(76, 175, 80, 0.95);
+}
+.contact-info .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner:hover .vc_icon_element-icon:before,
+.woocommerce .b-action a.button.added:before, 
+.b-action .yith-wcwl-wishlistexistsbrowse a:before, 
+.b-action .yith-wcwl-wishlistaddedbrowse a:before,
+.widget_product_categories > ul > .cat-item .children li a:hover,
+.woocommerce ul.products li.product h3 a:hover,
+.woocommerce .cart-collaterals .cart_totals table tr.order-total td, 
+.woocommerce-page .cart-collaterals .cart_totals table tr.order-total td{
+	color: #4CAF50!important;
+}
+
+.widget #wp-calendar tr th:last-child, 
+.widget #wp-calendar tr th:nth-last-child(2), 
+.widget #wp-calendar tr td:last-child, 
+.widget #wp-calendar tr td:nth-last-child(2), 
+.widget #wp-calendar tr td:last-child a, 
+.widget #wp-calendar tr td:nth-last-child(2) a{
+	color: #4CAF50;
+}
+
+
+@media only screen and (max-width: 1199px) {
+	.widget #wp-calendar td#today {
+		color: #4CAF50!important;
+	}
+}
+@media only screen and (min-width: 768px) {
+	.event-isotope-filter li:hover {
+		color: #4CAF50;
+	}
+	.course-isotope-filter li:hover,
+	.k2t-page-topnav ul.menu > li:hover > a{
+		color: #4CAF50;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.vc_tta.vc_general .vc_tta-panel.vc_active div.vc_tta-panel-heading {
+		background: #4CAF50!important;
+	}
+}

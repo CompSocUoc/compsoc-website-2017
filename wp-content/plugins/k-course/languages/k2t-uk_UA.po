@@ -1,0 +1,466 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: K Courses\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-14 10:21+0700\n"
+"PO-Revision-Date: 2016-01-14 10:21+0700\n"
+"Last-Translator: Lunar Theme <lunarthemex@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;"
+"_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;"
+"esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;"
+"transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../assets/js/isotope.pkgd.min.js:1
+msgid "boxSizing"
+msgstr ""
+
+#: ../inc/acf-content.php:10
+msgid "Course Layout"
+msgstr ""
+
+#: ../inc/acf-content.php:21
+msgid "Course layout"
+msgstr ""
+
+#: ../inc/acf-content.php:29
+msgid "Default"
+msgstr ""
+
+#: ../inc/acf-content.php:30
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../inc/acf-content.php:31
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../inc/acf-content.php:32
+msgid "No Sidebar"
+msgstr ""
+
+#: ../inc/acf-content.php:45
+msgid "Custom sidebar name"
+msgstr ""
+
+#: ../inc/acf-content.php:62
+msgid "Course information"
+msgstr ""
+
+#: ../inc/acf-content.php:77
+msgid "Start date"
+msgstr ""
+
+#: ../inc/acf-content.php:94
+msgid "Course ID"
+msgstr ""
+
+#: ../inc/acf-content.php:115
+msgid "Product"
+msgstr ""
+
+#: ../inc/acf-content.php:138 ../templates/course-single.php:202
+msgid "Address"
+msgstr ""
+
+#: ../inc/acf-content.php:159
+msgid "Duration"
+msgstr ""
+
+#: ../inc/acf-content.php:180
+msgid "Who are instructors?"
+msgstr ""
+
+#: ../inc/acf-content.php:192 ../inc/acf-content.php:208
+msgid "Teacher"
+msgstr ""
+
+#: ../inc/acf-content.php:193
+msgid "Out School"
+msgstr ""
+
+#: ../inc/acf-content.php:239
+msgid "Speakers"
+msgstr ""
+
+#: ../inc/acf-content.php:265
+msgid "Avatar"
+msgstr ""
+
+#: ../inc/acf-content.php:289
+msgid "Name"
+msgstr ""
+
+#: ../inc/acf-content.php:310
+msgid "Role"
+msgstr ""
+
+#: ../inc/acf-content.php:333
+msgid "Subscribe URL"
+msgstr ""
+
+#: ../inc/acf-content.php:354
+msgid "Subscribe Button Text"
+msgstr ""
+
+#: ../inc/acf-content.php:375
+msgid "Download"
+msgstr ""
+
+#: ../inc/acf-content.php:393
+msgid "Download text"
+msgstr ""
+
+#: ../inc/acf-content.php:414
+msgid "Download link"
+msgstr ""
+
+#: ../inc/acf-content.php:437
+msgid "Course Titlebar"
+msgstr ""
+
+#: ../inc/acf-content.php:448
+msgid "Show/Hide Title Bar"
+msgstr ""
+
+#: ../inc/acf-content.php:471
+msgid "Show/Hide Date"
+msgstr ""
+
+#: ../inc/acf-content.php:483 ../inc/acf-content.php:509
+msgid "Yes"
+msgstr ""
+
+#: ../inc/acf-content.php:484 ../inc/acf-content.php:510
+msgid "No"
+msgstr ""
+
+#: ../inc/acf-content.php:497
+msgid "Show/Hide Author"
+msgstr ""
+
+#: ../inc/acf-content.php:523
+msgid "Course titlebar font size"
+msgstr ""
+
+#: ../inc/acf-content.php:548
+msgid "Course title bar color"
+msgstr ""
+
+#: ../inc/acf-content.php:567
+msgid "Padding top"
+msgstr ""
+
+#: ../inc/acf-content.php:592
+msgid "Padding bottom"
+msgstr ""
+
+#: ../inc/acf-content.php:617
+msgid "Background color"
+msgstr ""
+
+#: ../inc/acf-content.php:636
+msgid "Background image"
+msgstr ""
+
+#: ../inc/acf-content.php:657
+msgid "Background position"
+msgstr ""
+
+#: ../inc/acf-content.php:673
+msgid "None"
+msgstr ""
+
+#: ../inc/acf-content.php:674
+msgid "Left Top"
+msgstr ""
+
+#: ../inc/acf-content.php:675
+msgid "Left Center"
+msgstr ""
+
+#: ../inc/acf-content.php:676
+msgid "Left Bottom"
+msgstr ""
+
+#: ../inc/acf-content.php:677
+msgid "Right Top"
+msgstr ""
+
+#: ../inc/acf-content.php:678
+msgid "Right Center"
+msgstr ""
+
+#: ../inc/acf-content.php:679
+msgid "Right Bottom"
+msgstr ""
+
+#: ../inc/acf-content.php:680
+msgid "Center top"
+msgstr ""
+
+#: ../inc/acf-content.php:681
+msgid "Center Center"
+msgstr ""
+
+#: ../inc/acf-content.php:682
+msgid "Center Bottom"
+msgstr ""
+
+#: ../inc/acf-content.php:695
+msgid "Background size"
+msgstr ""
+
+#: ../inc/acf-content.php:728
+msgid "Background repeat"
+msgstr ""
+
+#: ../inc/acf-content.php:761
+msgid "Background parallax"
+msgstr ""
+
+#: ../inc/acf-content.php:791
+msgid "Titlebar overlay opacity"
+msgstr ""
+
+#: ../inc/acf-content.php:830
+msgid "Titlebar clipmask opacity"
+msgstr ""
+
+#: ../inc/acf-content.php:869
+msgid "Custom titlebar content"
+msgstr ""
+
+#: ../inc/class.k_course.php:64 ../inc/class.k_course.php:209
+msgid "Apply"
+msgstr ""
+
+#: ../inc/class.k_course.php:128
+msgid "Sort Course"
+msgstr ""
+
+#: ../inc/class.k_course.php:129 ../inc/class.k_course.php:136
+msgid "All"
+msgstr ""
+
+#: ../inc/class.register_factory.php:327
+msgid "Add file"
+msgstr ""
+
+#: ../inc/fn.misc.php:93
+#, php-format
+msgid "%s Previous"
+msgstr ""
+
+#: ../inc/fn.misc.php:94
+#, php-format
+msgid "Next %s"
+msgstr ""
+
+#: ../inc/navigation.php:31
+msgid "<i class=\"zmdi zmdi-long-arrow-left\"></i>Previous"
+msgstr ""
+
+#: ../inc/navigation.php:34
+msgid "Next<i class=\"zmdi zmdi-long-arrow-right\"></i>"
+msgstr ""
+
+#: ../inc/navigation.php:47
+msgid "<i class=\"zmdi zmdi-long-arrow-left\"></i>"
+msgstr ""
+
+#: ../inc/navigation.php:48
+msgid "<i class=\"zmdi zmdi-long-arrow-right\"></i>"
+msgstr ""
+
+#: ../inc/registrations.php:9
+msgid "k-course"
+msgstr ""
+
+#: ../inc/registrations.php:10
+msgid "k-course-category"
+msgstr ""
+
+#: ../inc/registrations.php:11
+msgid "k-course-tag"
+msgstr ""
+
+#: ../inc/registrations.php:18 ../inc/registrations.php:19
+msgid "K-Course"
+msgstr ""
+
+#: ../inc/registrations.php:20 ../inc/registrations.php:21
+msgid "Add New Course"
+msgstr ""
+
+#: ../inc/registrations.php:22
+msgid "Edit Course"
+msgstr ""
+
+#: ../inc/registrations.php:23
+msgid "New Course"
+msgstr ""
+
+#: ../inc/registrations.php:24
+msgid "View Course"
+msgstr ""
+
+#: ../inc/registrations.php:25
+msgid "All Courses"
+msgstr ""
+
+#: ../inc/registrations.php:26
+msgid "Search Course"
+msgstr ""
+
+#: ../inc/registrations.php:27
+msgid "No Course found"
+msgstr ""
+
+#: ../inc/registrations.php:28
+msgid "No Course found in Trash"
+msgstr ""
+
+#: ../inc/registrations.php:42
+msgctxt "taxonomy general name"
+msgid "Course Categories"
+msgstr ""
+
+#: ../inc/registrations.php:43
+msgctxt "taxonomy singular name"
+msgid "K-Course Category"
+msgstr ""
+
+#: ../inc/registrations.php:44
+msgid "Search K-Course Categories"
+msgstr ""
+
+#: ../inc/registrations.php:45
+msgid "All K-Course Categories"
+msgstr ""
+
+#: ../inc/registrations.php:46
+msgid "Parent K-Course Category"
+msgstr ""
+
+#: ../inc/registrations.php:47
+msgid "Parent K-Course Category:"
+msgstr ""
+
+#: ../inc/registrations.php:48
+msgid "Edit K-Course Category"
+msgstr ""
+
+#: ../inc/registrations.php:49
+msgid "Update K-Course Category"
+msgstr ""
+
+#: ../inc/registrations.php:50
+msgid "Add New K-Course Category"
+msgstr ""
+
+#: ../inc/registrations.php:51
+msgid "New K-Course Category Name"
+msgstr ""
+
+#: ../inc/registrations.php:52
+msgid "K-Course Categories"
+msgstr ""
+
+#: ../inc/registrations.php:62
+msgctxt "taxonomy general name"
+msgid "K-Course Tags"
+msgstr ""
+
+#: ../inc/registrations.php:63
+msgctxt "taxonomy singular name"
+msgid "K-Course Tag"
+msgstr ""
+
+#: ../inc/registrations.php:64
+msgid "Search K-Course Tags"
+msgstr ""
+
+#: ../inc/registrations.php:65
+msgid "All K-Course Tags"
+msgstr ""
+
+#: ../inc/registrations.php:66
+msgid "Parent K-Course Tag"
+msgstr ""
+
+#: ../inc/registrations.php:67
+msgid "Parent K-Course Tag:"
+msgstr ""
+
+#: ../inc/registrations.php:68
+msgid "Edit K-Course Tag"
+msgstr ""
+
+#: ../inc/registrations.php:69
+msgid "Update K-Course Tag"
+msgstr ""
+
+#: ../inc/registrations.php:70
+msgid "Add New K-Course Tag"
+msgstr ""
+
+#: ../inc/registrations.php:71
+msgid "New K-Course Tag Name"
+msgstr ""
+
+#: ../inc/registrations.php:72
+msgid "K-Course Tags"
+msgstr ""
+
+#: ../templates/course-single.php:88
+msgid "START:"
+msgstr ""
+
+#: ../templates/course-single.php:95
+msgid "DURATION:"
+msgstr ""
+
+#: ../templates/course-single.php:102
+msgid "Course ID:"
+msgstr ""
+
+#: ../templates/course-single.php:107
+msgid "ID:"
+msgstr ""
+
+#: ../templates/course-single.php:117
+msgid "PRICE:"
+msgstr ""
+
+#: ../templates/course-single.php:132
+msgid "Download:"
+msgstr ""
+
+#: ../templates/course-single.php:149 ../templates/course-single.php:174
+msgid "Instructors"
+msgstr ""
+
+#: ../templates/course-single.php:211
+msgid "Categories"
+msgstr ""
+
+#: ../templates/course-single.php:232
+msgid "Description"
+msgstr ""
+
+#: ../templates/course-single.php:241
+msgid "Launch Course"
+msgstr ""

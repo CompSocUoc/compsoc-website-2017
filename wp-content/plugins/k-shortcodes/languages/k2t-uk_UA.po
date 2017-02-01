@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: K Shortcodes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Jan 13 2016 16:22:05 GMT+0700 (SE Asia Standard "
+"Time)\n"
+"PO-Revision-Date: 2016-01-13 16:25+0700\n"
+"Last-Translator: Lunar Theme <lunarthemex@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;"
+"_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;"
+"esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;"
+"transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:16
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:17
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:18 /shortcodes/member.php:90 /shortcodes/member.php:91
+msgid "Google+"
+msgstr ""
+
+#: functions.php:19
+msgid "LinkedIn"
+msgstr ""
+
+#: functions.php:20
+msgid "Tumblr"
+msgstr ""
+
+#: functions.php:21
+msgid "Pinterest"
+msgstr ""
+
+#: functions.php:22
+msgid "YouTube"
+msgstr ""
+
+#: functions.php:23
+msgid "Skype"
+msgstr ""
+
+#: functions.php:24
+msgid "Instagram"
+msgstr ""
+
+#: functions.php:25
+msgid "Delicious"
+msgstr ""
+
+#: functions.php:26
+msgid "Reddit"
+msgstr ""
+
+#: functions.php:27
+msgid "StumbleUpon"
+msgstr ""
+
+#: functions.php:28
+msgid "Wordpress"
+msgstr ""
+
+#: functions.php:29
+msgid "Joomla"
+msgstr ""
+
+#: functions.php:30
+msgid "Blogger"
+msgstr ""
+
+#: functions.php:31
+msgid "Vimeo"
+msgstr ""
+
+#: functions.php:32
+msgid "Yahoo!"
+msgstr ""
+
+#: functions.php:33
+msgid "Flickr"
+msgstr ""
+
+#: functions.php:34
+msgid "Picasa"
+msgstr ""
+
+#: functions.php:35
+msgid "DeviantArt"
+msgstr ""
+
+#: functions.php:36
+msgid "GitHub"
+msgstr ""
+
+#: functions.php:37
+msgid "StackOverFlow"
+msgstr ""
+
+#: functions.php:38
+msgid "Xing"
+msgstr ""
+
+#: functions.php:39
+msgid "Flattr"
+msgstr ""
+
+#: functions.php:40
+msgid "Foursquare"
+msgstr ""
+
+#: functions.php:41
+msgid "Paypal"
+msgstr ""
+
+#: functions.php:42
+msgid "Yelp"
+msgstr ""
+
+#: functions.php:43
+msgid "SoundCloud"
+msgstr ""
+
+#: functions.php:44
+msgid "Last.fm"
+msgstr ""
+
+#: functions.php:45
+msgid "Lanyrd"
+msgstr ""
+
+#: functions.php:46
+msgid "Dribbble"
+msgstr ""
+
+#: functions.php:47
+msgid "Forrst"
+msgstr ""
+
+#: functions.php:48
+msgid "Steam"
+msgstr ""
+
+#: functions.php:49
+msgid "Behance"
+msgstr ""
+
+#: functions.php:50
+msgid "Mixi"
+msgstr ""
+
+#: functions.php:51
+msgid "Weibo"
+msgstr ""
+
+#: functions.php:52
+msgid "Renren"
+msgstr ""
+
+#: functions.php:53
+msgid "Evernote"
+msgstr ""
+
+#: functions.php:54
+msgid "Dropbox"
+msgstr ""
+
+#: functions.php:55
+msgid "Bitbucket"
+msgstr ""
+
+#: functions.php:56
+msgid "Trello"
+msgstr ""
+
+#: functions.php:57
+msgid "VKontakte"
+msgstr ""
+
+#: functions.php:58
+msgid "Homepage"
+msgstr ""
+
+#: functions.php:59 /shortcodes/member.php:89
+msgid "Email"
+msgstr ""
+
+#: functions.php:60
+msgid "RSS"
+msgstr ""
+
+#. Name of the plugin
+msgid "K Shortcodes"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.lunartheme.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "This is the plugin for setting up shortcodes on LunarTheme's items"
+msgstr ""
+
+#. Author of the plugin
+msgid "LunarTheme"
+msgstr ""
+
+#: shortcodes/blog_post.php:112 /shortcodes/blog_post.php:126
+msgid "Read more"
+msgstr ""
+
+#: shortcodes/k2t_grid_slider.php:60
+msgid "Current"
+msgstr ""
+
+#: shortcodes/k2t_grid_slider.php:62
+msgid "Slide"
+msgstr ""
+
+#: shortcodes/register.php:13
+msgid "Register"
+msgstr ""
+
+#: shortcodes/register.php:132
+msgid "Required form field is missing"
+msgstr ""
+
+#: shortcodes/register.php:135
+msgid "Username too short. At least 4 characters is required"
+msgstr ""
+
+#: shortcodes/register.php:138
+msgid "Sorry, that username already exists!"
+msgstr ""
+
+#: shortcodes/register.php:140
+msgid "Sorry, the username you entered is not valid"
+msgstr ""
+
+#: shortcodes/register.php:143
+msgid "Password length must be greater than 5"
+msgstr ""
+
+#: shortcodes/register.php:146
+msgid "Email is not valid"
+msgstr ""
+
+#: shortcodes/register.php:149
+msgid "Email Already in use"
+msgstr ""
+
+#: shortcodes/register.php:153
+msgid "Website is not a valid URL"
+msgstr ""
+
+#: shortcodes/register.php:161
+msgid "ERROR"
+msgstr ""
+
+#: shortcodes/toggle.php:14
+msgid "Toggle Title"
+msgstr ""

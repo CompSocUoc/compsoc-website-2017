@@ -1,0 +1,133 @@
+.mce-window.mce-in {
+	position: absolute;
+}
+.wpb-elements-list-modal .wpb-content-layouts a i.vc_element-description {
+	display: none;
+}
+.mce-toolbar .mce-i-k2t_icon {
+	width: 18px;
+	height: 18px;
+	background: url('../images/icon.png') no-repeat 0 0 !important;
+}
+.wpb-elements-list {
+	background: #f0f3f4;
+}
+.dropdown .fa {
+	display: block;
+}
+.vc_modal.wpb-elements-list-modal .vc_element-icon,
+.metabox-composer-content .vc_element-icon {
+	background: none;
+	border: 1px solid #ddd;
+	border-radius: 50%;
+	height: 40px;
+	line-height: 40px;
+	margin: 20px auto;
+	width: 40px;
+	position: inherit;
+	font-size: 100%;
+}
+.vc_modal.wpb-elements-list-modal .wpb-content-layouts li {
+	background: #fff;
+	border: 1px solid #ddd;
+	margin: 0 10px 10px 0;
+	text-align: center;
+	width: 165px;
+	height: 120px;
+	-webkit-transition: all .3s ease-in-out 0s;
+	-moz-transition:    all .3s ease-in-out 0s;
+	transition:         all .3s ease-in-out 0s;
+}
+.vc_modal.wpb-elements-list-modal .wpb-content-layouts li .vc_el-container {
+	height: 100%;
+}
+.vc_modal.wpb-elements-list-modal .wpb-content-layouts li:hover {
+	border-color: #727272;
+}
+.vc_modal.wpb-elements-list-modal .wpb-content-layouts a {
+	color: #58666e;
+	padding: 0;
+}
+.metabox-composer-content .vc_element-icon {
+	height: 32px;
+	margin: 0;
+	text-align: center;
+	width: 32px;
+	line-height: 32px;
+	color: #aaa;
+	-webkit-border-radius: 2px;
+	-moz-border-radius:    2px;
+	-ms-border-radius:     2px;
+	border-radius:         2px;
+}
+.metabox-composer-content .wpb_vc_param_value {
+	display: none;
+}
+.wpb_vc_column_text .wpb_element_wrapper .wpb_vc_param_value {
+	display: block;
+}
+.wpb_vc_column_text .wpb_element_wrapper .wpb_vc_param_value p {
+	font-size: 10px;
+	color: #999;
+	margin: 0;
+}
+#k2ticon-generator-button-icon_font,
+#k2ticon-remove-button-icon_font,
+#k2ticon-generator-button-icon,
+#k2ticon-remove-button-icon {
+	height: 35px;
+	line-height: 35px;
+	width: 35px;
+	text-align: center;
+}
+#k2ticon-generator-button-icon_font span,
+#k2ticon-remove-button-icon_font span,
+#k2ticon-generator-button-icon span,
+#k2ticon-remove-button-icon span {
+	margin-top: 10px;
+}
+.vc_modal.wpb-elements-list-modal .vc_element-icon:before {
+	font-family: FontAwesome;
+	font-style: normal;
+}
+.vc_modal.wpb-elements-list-modal .vc_element-icon.icon-wpb-application-icon-large:before {
+	content: "\f1ea";
+}
+.vc_modal.wpb-elements-list-modal .vc_element-icon.vc_icon-vc-media-grid:before {
+	content: "\f03e";
+}
+.vc_modal.wpb-elements-list-modal .vc_element-icon.vc_icon-vc-masonry-grid:before {
+	content: "\f233";
+}
+.vc_modal.wpb-elements-list-modal .vc_element-icon.vc_icon-vc-masonry-media-grid:before {
+	content: "\f233";
+}
+.vc_modal.wpb-elements-list-modal .vc_element-icon.icon-wpb-vc_icon:before {
+	content: "\f219";
+}
+.vc_modal.wpb-elements-list-modal .vc_element-icon.icon-wpb-woocommerce:before {
+	content: "\f07a";
+}
+
+
+/* Custom post type icon */
+#menu-posts-post-k-project .dashicons-admin-post:before{
+	content: "\f0f2";
+	font-family: FontAwesome;
+}
+#menu-posts-post-gallery .dashicons-admin-post:before{
+	content: "\f03e";
+	font-family: FontAwesome;
+}
+#menu-posts-post-k-teacher .dashicons-admin-post:before{
+	content: "\f0c0";
+	font-family: FontAwesome;
+}
+#menu-posts-post-k-event .dashicons-admin-post:before{
+	content: "\f073";
+	font-family: FontAwesome;
+}
+#menu-posts-post-k-course .dashicons-admin-post:before{
+	content: "\f212";
+	font-family: FontAwesome;
+}
